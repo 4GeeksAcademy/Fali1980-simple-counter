@@ -1,4 +1,41 @@
+.col {
+    border: 1px solid black;
+    height:  200px;
+    font-size: 120px;
+    background-color: rgb(34, 33, 33);
+    margin: 0px 2px 0px 2px;
+    box-shadow: inset 10px 11px 7px 0px rgba(131, 130, 130, 0.5), 10px 11px 7px 0px rgba(8, 8, 8, 0.5);
+    
+}
 
+body {
+    background-color: grey;
+}
+
+
+/* .app{
+    width: 100%;
+    background-color: black;
+    height: 180px;
+    color: white;
+    font-size: 110px;
+    text-align: center;
+    padding-top: 10px;
+}
+.box{
+    display: inline-block;
+    height: 150px;
+    background-color: #0e0e0e;
+    border-radius: 10px;
+}
+.icon{
+    width: 140px;
+}
+.counter{
+    width: 100px;
+    margin-left: 10px;
+} 
+*/
 /* 
 
     You can write your own styles here...
